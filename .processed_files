@@ -1,0 +1,13 @@
+divmul.c
+exec_input.c
+main.c
+memory.c
+modpchar.c
+nopsub.c
+pintpop.c
+process_file.c
+pstrrotl.c
+pushpall.c
+rotrstack.c
+swapadd.c
+*.cclear
